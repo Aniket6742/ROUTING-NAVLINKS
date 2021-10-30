@@ -1,9 +1,12 @@
+
+
 const User = () =>{
     return(
      <>
-     <h1>THIS IS USER COMPONENT</h1>
+     <h1>THIS IS User</h1>
      </>
     );
 }
+
 
 export default User;
